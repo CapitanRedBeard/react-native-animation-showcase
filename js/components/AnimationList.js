@@ -111,7 +111,7 @@ const styles = StyleSheet.create({
         flexDirection: 'column',
         alignItems: 'center',
         justifyContent: 'center',
-        height: 150,
+        height: 100,
         flex: 1
     },
     name: {
